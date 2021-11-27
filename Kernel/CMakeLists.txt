@@ -19,6 +19,7 @@ set(LIBC_SOURCES
     ../Userland/Libraries/LibC/string.c
     ../Userland/Libraries/LibC/stdlib.c
     ../Userland/Libraries/LibC/stdio.c
+    ../Userland/Libraries/LibC/ctype.c
 )
 
 set(SOURCES
